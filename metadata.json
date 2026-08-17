@@ -1,0 +1,6 @@
+{
+  "name": "తిరుమల సప్తగిరి పురాణం - Tirumala Saptagiri",
+  "description": "తిరుమల ఏడుకొండల పురాణ–చారిత్రక కథనం, సప్తగిరుల సమగ్ర దర్శనం, దివ్య స్తోత్రాలు, తీర్థాల విశేషాలు మరియు శ్రీవారి పురాణ విద్వాంసుడు.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
